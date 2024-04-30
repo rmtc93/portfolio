@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+    font-size: 30px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue ;
+
+}
+footer{
+    display: block;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+
+
