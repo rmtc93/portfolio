@@ -1,0 +1,21 @@
+body{
+    background-color: #101014;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: #252525;
+    background-color: #F7FF19;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+h1{
+    font-family: Bowlby One SC ,sans-serif;
+    color: white;
+    font-size: 30px;
+    
+}
+nav{
+    margin-right: 10px;
+}

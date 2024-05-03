@@ -16,10 +16,27 @@ ul{
 footer{
     display: block;
     margin-top: 50px;
-    justify-content: center;
+    
 }
 
 
 #image{
 background-color: aqua;
+}
+
+#exp{
+font-size: 20px;
+color: blue;
+
+}
+
+.temps{
+    font-size: 15px;
+    color: black;
+}
+#projets{
+    background-color: #ACC9E5;
+}
+#contact{
+    justify-content: center;
 }
