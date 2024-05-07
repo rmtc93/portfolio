@@ -4,8 +4,8 @@ body{
 }
 a{
     text-decoration: none;
-    color: #252525;
-    background-color: #F7FF19;
+    color: white;
+    background-color: #404044;
     padding: 10px;
     font-weight: bold;
     border-radius: 20px;
@@ -19,3 +19,30 @@ h1{
 nav{
     margin-right: 10px;
 }
+button{
+    margin-left: 100px;
+    justify-content: space-between;
+}
+
+.code{
+   
+    
+}
+
+#moi{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.mail{
+    display: flex;
+    
+}
+.contact{
+    font-size: 20px;
+}
+:nth-last-child(a){
+    background-color: yellow;
+}
+
